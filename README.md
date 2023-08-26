@@ -6,7 +6,7 @@ Print Settings (feel free to experiment): 2 outer walls, 0 top and bottom walls,
 
 The result is a flexible mesh that can slide down an extrusion, even past the screw of a blind joint. Then thread your wires behind it and that's all there is to it. Can resize to length or print multiple to stack.
 
-The STL as provided can be printed on a v0 and will provide enough cover for top-mounted lighting on a v2.4 350.
+The STL as provided can be printed on a v0 and will provide enough cover for top-mounted lighting on both sides on a v2.4 350.
 
 Enjoy!
 ![photo](https://github.com/ectopenguin/2020channelcover/assets/135802473/03c95f9e-57a0-4c9d-9830-3615da9d80d3)
